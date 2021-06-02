@@ -33,9 +33,7 @@ const App = () => {
             photoUrl: user.photoURL,
           })
         );
-      } else {
-        
-      }
+      } 
     });
   }, []);
 
